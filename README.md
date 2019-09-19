@@ -69,3 +69,7 @@ connectivity analysis in event-related fMRI data.
 all-in-one network analysis toolbox for fMRI and DTI.
 - [EEGNET](https://sites.google.com/site/eegnetworks/): A toolbox for
 analyzing and visualizing M/EEG connectivity.
+
+# Optional Explanation by Cratial
+Date: 09-09-2019
+This is a Brain Functional Connectivity Analysis Toolbox repos.
